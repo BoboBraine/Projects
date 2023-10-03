@@ -6,12 +6,12 @@
 
 # Навыки и инструменты
 
-pandas
-matplotlib
-seaborn
-numpy
-sklearn.pipeline
-sklearn.linear_model: LinearRegression, Ridge, Lasso
+- pandas
+- matplotlib
+- seaborn
+- numpy
+- sklearn.pipeline
+- sklearn.linear_model: LinearRegression, Ridge, Lasso
 
 
 # Общий вывод
